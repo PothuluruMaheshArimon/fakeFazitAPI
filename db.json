@@ -3,17 +3,33 @@
     "locationId": "00000000001800710001100010001",
     "processNumber": "304",
     "resultDate": "11-DEC-20 04:20:27",
-    "resultState": "3",
-    "typeNumber": "028123017355",
+    "resultState": "1",
+    "typeNumber": "028122017355",
     "typeVersion": "0028",
-    "uniquePartId": "0604478935"
-  },{
+    "uniquePartId": "0104248935"
+  }, {
     "locationId": "00000000001800710001100010001",
     "processNumber": "304",
     "resultDate": "11-DEC-20 04:20:27",
     "resultState": "1",
-    "typeNumber": "0281317355",
+    "typeNumber": "028122017355",
     "typeVersion": "0028",
-    "uniquePartId": "0802114524"
+    "uniquePartId": "0012142524"
+  }, {
+    "locationId": "00000000001800710001100010001",
+    "processNumber": "304",
+    "resultDate": "11-DEC-20 04:20:27",
+    "resultState": "1",
+    "typeNumber": "028122017355",
+    "typeVersion": "0028",
+    "uniquePartId": "0414112412"
+  }, {
+    "locationId": "00000000001800710001100010001",
+    "processNumber": "304",
+    "resultDate": "11-DEC-20 04:20:27",
+    "resultState": "1",
+    "typeNumber": "028122017355",
+    "typeVersion": "0028",
+    "uniquePartId": "0401125711"
   }]
 }
