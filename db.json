@@ -3,10 +3,10 @@
     "locationId": "00000000001800710001100010001",
     "processNumber": "304",
     "resultDate": "11-DEC-20 04:20:27",
-    "resultState": "1",
+    "resultState": "3",
     "typeNumber": "02812217355",
     "typeVersion": "0028",
-    "uniquePartId": "0505744448"
+    "uniquePartId": "0604478935"
   }, {
     "locationId": "00000000001800710001100010001",
     "processNumber": "304",
@@ -30,6 +30,6 @@
     "resultState": "1",
     "typeNumber": "02812217355",
     "typeVersion": "0028",
-    "uniquePartId": "0412295711"
+    "uniquePartId": "04121295711"
   }]
 }
